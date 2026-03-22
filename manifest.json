@@ -1,0 +1,23 @@
+{
+  "name": "小学数学应用题",
+  "short_name": "数学乐园",
+  "description": "小学数学应用题练习，包含基础11类和奥数8类",
+  "start_url": "/math-app/",
+  "display": "standalone",
+  "background_color": "#ff9f4b",
+  "theme_color": "#ff6b6b",
+  "icons": [
+    {
+      "src": "math-pwa-perfect/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "math-pwa-perfect/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
